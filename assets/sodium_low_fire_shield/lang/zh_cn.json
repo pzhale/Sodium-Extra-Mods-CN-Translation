@@ -1,0 +1,6 @@
+{
+  "sodium_low_fire_shield.option.low_fire": "低火",
+  "sodium_low_fire_shield.option.low_fire.tooltip": "将HUD中的火焰覆盖层向下移动以提高视角可见性",
+  "sodium_low_fire_shield.option.low_shield": "低护盾",
+  "sodium_low_fire_shield.option.low_shield.tooltip": "将HUD中的护盾向下移动以提高视角可见性"
+}

@@ -1,4 +1,5 @@
 # Sodium Extra Mods CN-Translation
+<img src="pack.png" width="128">
 
 # 开发背景
 虽然Sodium已经有了[非官方汉化包](https://modrinth.com/resourcepack/translations-for-sodium)，但却没多少人做它的附属模组的汉化 (要不就是下载量很少)

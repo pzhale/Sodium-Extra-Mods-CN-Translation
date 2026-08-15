@@ -14,6 +14,8 @@ This is definitely frustrating for me, so this translation resource pack was dev
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 - Sodium Leaf Culling [官方版 (Official)](https://modrinth.com/mod/sodiumleafculling) / [非官方版 (Unofficial)](https://modrinth.com/mod/sodiumleafculling-unofficial)
+- [Sodium Low Fire Shield](https://modrinth.com/mod/sodium-low-fire-shield) (v0.1.2 above)
+- [Nvidium](https://modrinth.com/mod/nvidium/) or [Acedium Sodiumized](https://modrinth.com/mod/acedium-sodiumized) (v0.1.2 above)
 
 后续更多附属模组汉化支持敬请期待！
 如有翻译错误, 请提交issue

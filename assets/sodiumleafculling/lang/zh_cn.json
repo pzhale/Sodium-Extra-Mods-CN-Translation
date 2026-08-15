@@ -1,0 +1,8 @@
+﻿{
+  "sodiumleafculling.options.leaf_culling.name": "树叶剔除选项",
+  "sodiumleafculling.options.leaf_culling.tooltip": "如果启用此功能, 内部的树叶方块将会剔除以提升性能\n\n空心 - 仅剔除内部方块面\n实心 - 内部的树叶方块将会渲染为不透明样式",
+  "options.leaf_culling.none": "无",
+  "options.leaf_culling.hollow": "空心",
+  "options.leaf_culling.solid": "实心",
+  "options.leaf_culling.solid_aggressive": "实心 (高效)"
+}

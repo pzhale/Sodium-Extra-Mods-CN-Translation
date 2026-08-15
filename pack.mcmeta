@@ -1,0 +1,9 @@
+{
+    "pack": {
+      "description": "基于Sodium Extra v0.9.3\nRSO v2.2.3制作",
+		"pack_format": 15,
+    "supported_formats": [1, 999],
+		"min_format": 1,
+    "max_format": 999
+    }
+}

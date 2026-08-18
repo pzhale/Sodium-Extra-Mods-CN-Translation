@@ -1,5 +1,6 @@
 # Sodium Extra Mods CN-Translation
-<img src="pack.png" width="128">
+<img src="pack.png" width="128"> [![CurseForge](https://img.shields.io/curseforge/dt/1653366?style=for-the-badge&logo=curseforge&color=%2300aaff)](https://www.curseforge.com/minecraft/texture-packs/sodium-extra-mods-cn-translation) [![Modrinth Downloads](https://img.shields.io/modrinth/dt/sodium-extra-mods-cn-translation?style=for-the-badge&logo=modrinth&color=%2300aaff)](https://modrinth.com/resourcepack/sodium-extra-mods-cn-translation)
+
 
 # 开发背景
 虽然Sodium已经有了[非官方汉化包](https://modrinth.com/resourcepack/translations-for-sodium)，但却没多少人做它的附属模组的汉化 (要不就是下载量很少)
